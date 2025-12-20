@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: AMAN NAIR
+### Register Number: 25010741
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
