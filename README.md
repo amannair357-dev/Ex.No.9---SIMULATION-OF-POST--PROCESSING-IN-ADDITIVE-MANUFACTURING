@@ -50,7 +50,9 @@
 <img width="1542" height="814" alt="Screenshot 2025-12-20 184117" src="https://github.com/user-attachments/assets/175d6d65-dfb5-4baf-a630-ff705a2fb4f3" />
 <img width="1536" height="812" alt="Screenshot 2025-12-20 184132" src="https://github.com/user-attachments/assets/7d6b32b1-ff6e-4fca-a64f-5cc419792e9c" />
 <img width="1546" height="865" alt="Screenshot 2025-12-20 184146" src="https://github.com/user-attachments/assets/d230194c-e863-465c-974e-47638b7eff5b" />
-
+<img width="552" height="770" alt="Screenshot 2025-12-27 143013" src="https://github.com/user-attachments/assets/36856557-dcee-4402-b83f-7c3a8b1139e5" />
+<img width="495" height="873" alt="Screenshot 2025-12-27 143156" src="https://github.com/user-attachments/assets/00ec8b64-9a20-4495-a0a3-a79872f098d9" />
+<img width="484" height="873" alt="Screenshot 2025-12-27 143236" src="https://github.com/user-attachments/assets/ba98fc92-b0e0-4926-ad3a-81ff91be9398" />
 
 ### Name: AMAN NAIR
 ### Register Number: 25010741
